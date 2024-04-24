@@ -1,4 +1,4 @@
-This is a 2-channel RGB controller featuring 2 switchable outputs. In addition, two GPIO pins are externally accessible, with one `(GPIO 2)` pre-equipped with a pull-up for straightforward connection of a DS1820S temperature sensor. The controller supports a power supply voltage range of 5 to 24 volts, with a maximum current of 3A. It operates with Tasmota firmware, and an applicable template is provided for configuration.
+This is a 2-channel (6 x PWM) RGB controller featuring 2 switchable outputs. In addition, two GPIO pins are externally accessible, with one `(GPIO 2)` pre-equipped with a pull-up for straightforward connection of a DS1820S temperature sensor. The controller supports a power supply voltage range of 5 to 24 volts, with a maximum current of 3A. It operates with Tasmota firmware, and an applicable template is provided for configuration.
 
 Manufactured by JLCPCB, each unit costs approximately $5, incl. assembly, excluding the MCU which needs to be soldered separately.
 
